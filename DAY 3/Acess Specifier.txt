@@ -1,0 +1,18 @@
+
+
+Public : 
+
+COLLEGE GROUP + COLLEGE + CLASS + EVERYONE
+
+
+Protected:
+
+COLLEGE GROUP + COLLEGE + CLASS 
+
+Default : 
+
+COLLEGE + CLASS 
+
+Private : 
+
+CLASS 
